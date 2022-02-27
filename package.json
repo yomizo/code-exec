@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@types/prettier": "^2.4.4",
     "@types/react-resizable": "1.7.2",
+    "@uiw/react-md-editor": "2.1.1",
     "axios": "^0.26.0",
     "bulmaswatch": "^0.8.1",
     "esbuild-wasm": "0.8.27",
